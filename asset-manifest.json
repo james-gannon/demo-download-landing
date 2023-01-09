@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/demo-download-landing/static/css/main.1dd05cd5.css",
+    "main.js": "/demo-download-landing/static/js/main.66e791e9.js",
+    "static/media/scene.png": "/demo-download-landing/static/media/scene.0c9a4cc167442c9b3806.png",
+    "static/media/mockup.png": "/demo-download-landing/static/media/mockup.db6381a867d29be0934a.png",
+    "static/media/feature.png": "/demo-download-landing/static/media/feature.54eb71fb8a918fd5e4f6.png",
+    "static/media/home_hero.png": "/demo-download-landing/static/media/home_hero.08651b83de3b3167695a.png",
+    "static/media/home_cards.png": "/demo-download-landing/static/media/home_cards.c5b24fac95f88325335b.png",
+    "static/media/expowhite.png": "/demo-download-landing/static/media/expowhite.2f8263815e021095f796.png",
+    "static/media/react.png": "/demo-download-landing/static/media/react.9667fe052f9577c58a34.png",
+    "static/media/AppStore.svg": "/demo-download-landing/static/media/AppStore.8c4986ee4828b47d16f5cd694ef065f2.svg",
+    "static/media/banner02.svg": "/demo-download-landing/static/media/banner02.e1ce2a521b9a4ae8b350.svg",
+    "static/media/banner03.svg": "/demo-download-landing/static/media/banner03.a82fa3a5843a0cb0269b.svg",
+    "static/media/banner.svg": "/demo-download-landing/static/media/banner.0dbb3aa8e2a35c1a44ce.svg",
+    "static/media/banner04.svg": "/demo-download-landing/static/media/banner04.b43b10b807bb6396ac49.svg",
+    "index.html": "/demo-download-landing/index.html",
+    "main.1dd05cd5.css.map": "/demo-download-landing/static/css/main.1dd05cd5.css.map",
+    "main.66e791e9.js.map": "/demo-download-landing/static/js/main.66e791e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd05cd5.css",
+    "static/js/main.66e791e9.js"
+  ]
+}
