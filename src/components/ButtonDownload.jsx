@@ -5,18 +5,20 @@ import styles from "../styles/Global";
 const ButtonDownload = ({ assetUrl1, assetUrl2, Link }) => {
   return (
     <div className="md:flex md:justify-center md:flex-col md:items-center lg:flex-row">
-      <img
-        src={assetUrl1}
-        alt="App Store badge"
-        className="md:inline-block my-3 h-12 float-left minmd:w-11/12 minmd:h-11/12 object-contain cursor-pointer"
-        onClick={() => window.open(Link, "_blank")}
-      />
-      <img
-        src={assetUrl2}
-        alt="Google Play badge"
-        className="md:inline-block my-3 mx-4 h-12 float-left minmd:w-11/12 minmd:h-11/12 object-contain cursor-pointer"
-        onClick={() => window.open(Link, "_blank")}
-      />
+      <div className="flex justify-center float-left">
+        <img
+          src={assetUrl1}
+          alt="App Store badge"
+          className="my-3 h-12 cursor-pointer"
+          onClick={() => window.open(Link, "_blank")}
+        />
+        <img
+          src={assetUrl2}
+          alt="Google Play badge"
+          className="my-3 h-12 mx-4 object-contain cursor-pointer"
+          onClick={() => window.open(Link, "_blank")}
+        />
+      </div>
     </div>
   );
 };

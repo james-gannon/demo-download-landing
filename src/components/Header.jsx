@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="flex justify-between px-5 py-4 bg-black text-white">
+    <div className="flex justify-between px-6 py-5 bg-black text-white">
       <a class="logo" href="#home" className="flex">
         <img src={assets.expowhite} alt="company logo" className="h-6 px-4" />
         Company Name
