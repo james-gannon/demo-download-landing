@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/demo-download-landing/static/css/main.1dd05cd5.css",
-    "main.js": "/demo-download-landing/static/js/main.66e791e9.js",
+    "main.css": "/demo-download-landing/static/css/main.55acd9a8.css",
+    "main.js": "/demo-download-landing/static/js/main.669d036c.js",
     "static/media/scene.png": "/demo-download-landing/static/media/scene.0c9a4cc167442c9b3806.png",
     "static/media/mockup.png": "/demo-download-landing/static/media/mockup.db6381a867d29be0934a.png",
     "static/media/feature.png": "/demo-download-landing/static/media/feature.54eb71fb8a918fd5e4f6.png",
@@ -15,11 +15,11 @@
     "static/media/banner.svg": "/demo-download-landing/static/media/banner.0dbb3aa8e2a35c1a44ce.svg",
     "static/media/banner04.svg": "/demo-download-landing/static/media/banner04.b43b10b807bb6396ac49.svg",
     "index.html": "/demo-download-landing/index.html",
-    "main.1dd05cd5.css.map": "/demo-download-landing/static/css/main.1dd05cd5.css.map",
-    "main.66e791e9.js.map": "/demo-download-landing/static/js/main.66e791e9.js.map"
+    "main.55acd9a8.css.map": "/demo-download-landing/static/css/main.55acd9a8.css.map",
+    "main.669d036c.js.map": "/demo-download-landing/static/js/main.669d036c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dd05cd5.css",
-    "static/js/main.66e791e9.js"
+    "static/css/main.55acd9a8.css",
+    "static/js/main.669d036c.js"
   ]
 }
